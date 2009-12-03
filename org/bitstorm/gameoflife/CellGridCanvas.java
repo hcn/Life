@@ -234,6 +234,7 @@ public class CellGridCanvas extends Canvas {
    * @throws ShapeException if the shape does not fit on the canvas
    */
   public synchronized void setShape(Shape shape) throws ShapeException {
+	  //	kommentar
     int xOffset;
     int yOffset;
     int[][] shapeGrid;
